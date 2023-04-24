@@ -1,4 +1,4 @@
-# Scrut DevOps Assignment
+# DevOps Assignment
 
 ![](http://turnoff.us/image/en/before-devops-after-devops.png)
 
